@@ -3,6 +3,8 @@
 - начал с курса: https://www.youtube.com/watch?v=699jkjLJGyM&list=PLpykv05eUR0rAuaLnybkZORnCwyND4CV4
 - документация: https://unidata.github.io/netcdf4-python/
 - курс по QGIS: https://urokiqgis.ru/geodata
+- Основные понятия в ГИС: https://www.youtube.com/watch?v=6gOP3oaunIg
+- GeoPandas: https://geopandas.org/en/stable/docs/user_guide/data_structures.html
 
 ___
 ## netCDF 
